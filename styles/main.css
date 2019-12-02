@@ -9658,5 +9658,12 @@ h3 {
 body {
   background-image: url(/Total_Rickall.png);
 }
+body h1 {
+  color: red;
+  font-size: 50px;
+  font-family: new "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-shadow: black 1px 1px 1px;
+  text-align: center;
+}
 
 /*# sourceMappingURL=main.css.map */
