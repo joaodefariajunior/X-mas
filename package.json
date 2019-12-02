@@ -1,9 +1,9 @@
 {
-  "name": "my-project",
+  "name": "X-mas",
   "version": "1.0.0",
-  "description": "",
+  "description": "xmas",
   "main": "index.html",
-  "author": "Julia Pim",
+  "author": "Joao",
   "scripts": {
     "start": "run-p watch watch:styles",
     "build": "run-s clean clean:styles build:styles copy",

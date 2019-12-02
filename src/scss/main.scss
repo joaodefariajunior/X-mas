@@ -1,2 +1,7 @@
 // This is where you can import other stylesheets or write your scss code
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    h1 {color:red;font-size: 50px;font-family: new 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-shadow:black 1px 1px 1px;
+    text-align: center; }
+    ;background-image: url(/src/images/Total_Rickall.png);}
